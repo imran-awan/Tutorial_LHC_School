@@ -1,0 +1,6 @@
+jupyterlab
+uproot
+awkward
+vector
+numpy
+matplotlib
